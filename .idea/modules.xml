@@ -4,7 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/../Apigee_Test/Apigee_Test.iml" filepath="$PROJECT_DIR$/../Apigee_Test/Apigee_Test.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/Electronic-Biomedical-Projects.iml" filepath="$PROJECT_DIR$/.idea/Electronic-Biomedical-Projects.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Phase1_PatientInterface/Java/Phase1_Java.iml" filepath="$PROJECT_DIR$/Phase1_PatientInterface/Java/Phase1_Java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Phase1_PatientInterface/Project1_ReflexTester/Java/Phase1_Java.iml" filepath="$PROJECT_DIR$/Phase1_PatientInterface/Project1_ReflexTester/Java/Phase1_Java.iml" />
     </modules>
   </component>
 </project>
