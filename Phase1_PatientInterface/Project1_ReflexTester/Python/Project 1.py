@@ -1,4 +1,6 @@
 # Python Software Twin of the C++ Script for Project 1 for testing using OOP
+# Followed an example of a patient call button for first time doing python OOP.
+# Skipping the software twin of the real original C++ code and going straight to new C++ OOP version's software twin.
 from abc import ABC, abstractmethod
 
 class PatientInterface(ABC):
