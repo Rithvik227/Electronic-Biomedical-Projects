@@ -7,7 +7,7 @@
 This repository contains bare-metal and Object-Oriented software architectures for various hardware electronics and biomedical engineering projects. 
 
 ## Engineering Documentation & Media Gallery
-All physical circuit demonstrations, schematics, and engineering notebook pages (including all calculations and analyses) are stored in a centralized gallery.
+All physical circuit demonstrations, revisions, schematics, and engineering notebook pages (including all calculations and analyses) are stored in a centralized gallery.
 
 [Click here to browse the Engineering Notebook & Circuit Gallery](./Documentation/)
 
