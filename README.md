@@ -1,20 +1,23 @@
-# Electronic Engineering/Biotech Projects
+# Electronics and Embedded Systems Portfolio
 
-**Author:** Rithvik Godishala
+**Author:** Rithvik Godishala  
 
-**Environment:** JetBrains (CLion, PyCharm, IntelliJ) | Nobara Linux
+**Development Environment:** JetBrains (CLion, PyCharm, IntelliJ) | Nobara Linux  
 
-This repository contains bare-metal and Object-Oriented software architectures for various hardware electronics and biomedical engineering projects. 
+This repository serves as a centralized development environment for bare-metal firmware implementations and Object-Oriented software architectures across various embedded electronics and biomedical engineering projects.
 
-## Engineering Documentation & Media Gallery
-All physical circuit demonstrations, revisions, schematics, and engineering notebook pages (including all calculations and analyses) are stored in a centralized gallery.
+## Repository Architecture and Media Gallery
 
-[Click here to browse the Engineering Notebook & Circuit Gallery](./Documentation/)
+Physical circuit demonstrations, design revisions, schematics, and engineering notebook entries (including formal latency analyses and mathematical calculations) are organized by project phase within the main directory.
+
+[Link: Browse the Engineering Notebook and Circuit Gallery](./Documentation/)
 
 ---
 
 ## Project Directory
-### Project 1: Hardware-Debounced Neurological Reflex Tester (NRT-1)
-* **C++:** Bare-metal ATmega328P implementation.
-* **Java:** OOP terminal-based software twin.
-* **Python:** OS-level keyboard interrupt software twin.
+
+### Phase 1: Hardware-Debounced Neurological Reflex Tester (NRT-1)
+Development of a low-level timing metrics platform to evaluate human response latencies.
+* **C++ Architecture:** Bare-metal ATmega328P firmware managing hardware debouncing loops and finite state machine execution.
+* **Java Architecture:** Object-Oriented terminal-based software twin for validation.
+* **Python Architecture:** OS-level keyboard interrupt handler simulating the physical hardware environment.
